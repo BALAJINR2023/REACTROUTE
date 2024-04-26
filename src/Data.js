@@ -1,21 +1,23 @@
-
+import IMG1 from "./assets/FSD1.jpg"
+import IMG2 from "./assets/FSD2.jpg"
+import IMG3 from "./assets/FSD3.jpg"
 const Data=[{
     id:1,
-    imageurl:"https://www.guvi.in/blog/wp-content/uploads/2023/07/person-front-computer-working-html-768x513.jpg",
+    imageurl:IMG1,
     des:"Best Full-Stack Development Project Ideas in 2024",
     author:"Isha Sharma",
     date:"25-Mar-2024",
     tag:"FSD"
 },{
     id:2,
-    imageurl:"https://www.guvi.in/blog/wp-content/uploads/2023/07/html-css-collage-concept-with-person-150x100.jpg",
+    imageurl:IMG2,
     des:"Top 10 Full-Stack Developer Frameworks in 2024 ",
     author:"Isha Sharma",
     date:"16-Apr-2024",
     tag:"FSD"
 },{
     id:3,
-    imageurl:"https://www.guvi.in/blog/wp-content/uploads/2023/07/24746653_7002417-1-768x512.jpg",
+    imageurl:IMG3,
     des:"The Future & Scope of Full-Stack Developers in India",
     author:"Meghana D",
     date:"16-Apr-2024",
