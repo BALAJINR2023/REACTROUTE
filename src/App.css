@@ -72,6 +72,7 @@ nav button:hover {
 .alg{
   display: flex;
   justify-content: center;
+  gap: 20px;
   flex-direction: row;
   flex-wrap: wrap;
 }
