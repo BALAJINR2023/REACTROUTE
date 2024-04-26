@@ -1,6 +1,10 @@
 import IMG1 from "./assets/FSD1.jpg"
 import IMG2 from "./assets/FSD2.jpg"
 import IMG3 from "./assets/FSD3.jpg"
+import IMG5 from "./assets/DS2.png"
+import IMG6 from "./assets/DS3.png"
+import IMG9 from "./assets/CS3.png"
+
 const Data=[{
     id:1,
     imageurl:IMG1,
@@ -31,14 +35,14 @@ const Data=[{
     tag:"DS"
 },{
     id:5,
-    imageurl:"https://www.guvi.in/blog/wp-content/uploads/2022/06/5.-data-science.png",
+    imageurl:IMG5,
     des:"Can A Commerce Student Do Data Science?",
     author:"Saakshi Priyadarshini",
     date:"16-Apr-2024",
     tag:"DS"
 },{
     id:6,
-    imageurl:"https://www.guvi.in/blog/wp-content/uploads/2023/07/image-4-1200x676.png",
+    imageurl:IMG6,
     des:"Roles and Responsibilities of a Data Scientist",
     author:"Jaishree Tomar",
     date:"16-Apr-2024",
@@ -59,7 +63,7 @@ const Data=[{
     tag:"CS"
 },{
     id:9,
-    imageurl:"https://www.guvi.in/blog/wp-content/uploads/2022/12/Yellow-Blue-Illustration-Business-Blog-Banner-2048x1152.png",
+    imageurl:IMG9,
     des:"Cybersecurity Vs Ethical Hacking: Top 10 Differences",
     author:"Tushar Vinocha",
     date:"16-Apr-2024",
