@@ -1,0 +1,77 @@
+.dtext{
+  font-family: 'Times New Roman', Times, serif;
+  font-weight: 700;
+  color: brown;
+  text-align: center;
+}
+nav {
+  background-color: #f8f9fa;
+  padding: 10px;
+  display: flex;
+  justify-content: center;
+}
+
+nav button {
+  background-color: whitesmoke;
+  border: 2px solid black;
+  border-radius: 5px;
+  margin-right: 10px;
+  cursor: pointer;
+}
+
+nav button:hover {
+  color: #13ae53; 
+}
+.pathcnt{
+  display: flex;
+  justify-content: center;
+  margin-top: 20px;
+}
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  padding: 0.2rem 0;
+  box-shadow: 0 0.6rem 1.6rem 0 rgba(0, 0, 0, 0.15);
+  margin-bottom: 1rem;
+}
+.logo-container {
+  margin-left: 3rem;
+  display: flex;
+  gap: 2rem;
+  align-items: center;
+}
+.title {
+  font-size: 1.6rem;
+  font-weight: 600;
+}
+
+.nav-search {
+  padding: 0.5rem 1rem;
+  font-size: 1rem;
+  border: 1px solid #ddd;
+  border-radius: 9px;
+}
+
+.btn {
+  margin-right: 4rem;
+  border: none;
+  border-radius: 4px;
+  background: #0dba4b;
+  color: #fff;
+  font-size: 1 rem;
+  font-weight: 600;
+  box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.15);
+  cursor: pointer;
+}
+.blog-container {
+  margin: 0 10rem;
+  display: flex;
+  justify-content: center;
+  flex-direction: row;
+}
+.alg{
+  display: flex;
+  justify-content: center;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
